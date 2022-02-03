@@ -1,1 +1,1 @@
-# map.solforest.games
+# nextjs.template
